@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T10:59:26.702Z",
+  "updatedAt": "2026-09-09T11:26:51.710Z",
   "pages": {
     "accommodation": {
       "key": "accommodation",
       "name": "Accommodation",
       "url": "https://brutalassault.cz/en/accommodation",
-      "fetchedAt": "2026-09-09T10:59:26.658Z",
-      "hash": "ec8fb32427bb29dc17879d1f21a9e668a4a04dddb153991b4442f0ed2a1ecfc1",
+      "fetchedAt": "2026-09-09T11:26:51.406Z",
+      "hash": "5005174362782a888b40db1a5dfe645a216acb7d9e5270d0d57a5fd1a6b2676f",
       "relevantLines": [
         "Accommodation",
         "Brutal Merch",
@@ -50,8 +50,6 @@
         "Hotels Camps Car by tent",
         "Sustainable BRUTAL CAMP 2027 camp AAMON - ready-to-camp tent + mattress for 1 person [e-ticket]",
         "€ 33.33",
-        "BA 2027 Hotel ČERNIGOV *** double suite with extra bed (3 beds) [e-ticket]",
-        "€ 203.00",
         "Sustainable BRUTAL CAMP 2027 camp AAMON - ready-to-camp tent + mattress for 2 persons [e-ticket]",
         "€ 47.49",
         "Sustainable BRUTAL CAMP 2027 camp DAGON - ready-to-camp tent + mattress for 1 person [e-ticket]",
@@ -61,6 +59,7 @@
         "sold out",
         "BA 2027 Hotel ČERNIGOV *** single room (1 bed) [e-ticket]",
         "€ 85.00",
+        "sold out",
         "BA 2027 Hotel ČERNIGOV *** double or twin room (2 beds) [e-ticket]",
         "€ 133.00",
         "sold out",
@@ -68,6 +67,12 @@
         "€ 133.00",
         "sold out",
         "BA 2027 Hotel ČERNIGOV *** double room with extra bed (3 beds) [e-ticket]",
+        "€ 203.00",
+        "sold out",
+        "BA 2027 Hotel ČERNIGOV *** double suite with extra bed (3 beds) [e-ticket]",
+        "€ 203.00",
+        "sold out",
+        "BA 2026 Hotel ČERNIGOV *** triple room (3 beds) [e-ticket]",
         "€ 203.00",
         "BA 2027 camp AAMON - spot for your small tent and 1 person [e-ticket]",
         "€ 8.49",
@@ -109,7 +114,7 @@
         "Press",
         "Contact"
       ],
-      "relevantText": "Accommodation\nBrutal Merch\nBrutal Clothing\nMaster's Hammer\nAlcohol\nEN\nCSENSK\n0\nUser login\nSign in\nUser registration\nForgotten password\n☰\n×\nWeb\nNews\nLINE-UP\nFestival Info\nFAQ\nProgram\nPress\nContact\nuserLogin\nMeet & Greet\nBrutal Assault x Savage Lands\nE-shop\nTickets\nAccommodation\nBrutal Merch\nBrutal Clothing\nAlcohol\nTerms & conditions\nAccommodation\n→\nAccommodation\nCamps and hotels for BA 2027 coming soon. Stay tuned!\nShow available only\nAll accommodation\nHotels Camps Car by tent\nSustainable BRUTAL CAMP 2027 camp AAMON - ready-to-camp tent + mattress for 1 person [e-ticket]\n€ 33.33\nBA 2027 Hotel ČERNIGOV *** double suite with extra bed (3 beds) [e-ticket]\n€ 203.00\nSustainable BRUTAL CAMP 2027 camp AAMON - ready-to-camp tent + mattress for 2 persons [e-ticket]\n€ 47.49\nSustainable BRUTAL CAMP 2027 camp DAGON - ready-to-camp tent + mattress for 1 person [e-ticket]\n€ 33.33\nSustainable BRUTAL CAMP 2027 camp DAGON - ready-to-camp tent + mattress for 2 persons [e-ticket]\n€ 47.49\nsold out\nBA 2027 Hotel ČERNIGOV *** single room (1 bed) [e-ticket]\n€ 85.00\nBA 2027 Hotel ČERNIGOV *** double or twin room (2 beds) [e-ticket]\n€ 133.00\nsold out\nBA 2027 Hotel ČERNIGOV *** double suite (2 beds) [e-ticket]\n€ 133.00\nsold out\nBA 2027 Hotel ČERNIGOV *** double room with extra bed (3 beds) [e-ticket]\n€ 203.00\nBA 2027 camp AAMON - spot for your small tent and 1 person [e-ticket]\n€ 8.49\nBA 2027 camp AAMON - spot for your small tent and 2 persons [e-ticket]\n€ 15.49\nBA 2027 camp AAMON - spot for your large tent and 3 persons [e-ticket]\n€ 23.99\nBA 2027 camp AAMON - spot for your large tent and 4 persons [e-ticket]\n€ 31.49\nBA 2027 camp AAMON - spot for your large tent and 5 persons [e-ticket]\n€ 38.99\nBA 2027 camp AAMON - spot for your large tent and 6 persons [e-ticket]\n€ 45.99\nBA 2027 camp BEHERIT - spot for your small tent and 1 person [e-ticket]\n€ 8.49\nBA 2027 camp BEHERIT - spot for your small tent and 2 persons [e-ticket]\n€ 15.49\nBA 2027 camp BEHERIT - spot for your large tent and 3 persons [e-ticket]\n€ 23.99\nBA 2027 camp BEHERIT - spot for your large tent and 4 persons [e-ticket]\n€ 31.49\nBA 2027 camp BEHERIT - spot for your large tent and 5 persons [e-ticket]\n€ 38.99\nBA 2027 camp BEHERIT - spot for your large tent and 6 persons [e-ticket]\n€ 45.99\nBA 2027 silent camp CERBERUS - spot for your small tent and 1 person [e-ticket]\n€ 8.49\nBA 2027 silent camp CERBERUS - spot for your small tent and 2 persons [e-ticket]\n€ 15.49\nBA 2026 silent camp CERBERUS - spot for your large tent and 3 persons [e-ticket]\n€ 23.99\nBA 2027 silent camp CERBERUS - spot for your large tent and 4 persons [e-ticket]\n€ 31.49\nBA 2027 silent camp CERBERUS - spot for your large tent and 5 persons [e-ticket]\n€ 38.99\nBA 2027 silent camp CERBERUS - spot for your large tent and 6 persons [e-ticket]\n€ 45.99\nNews\nPress\nContact",
+      "relevantText": "Accommodation\nBrutal Merch\nBrutal Clothing\nMaster's Hammer\nAlcohol\nEN\nCSENSK\n0\nUser login\nSign in\nUser registration\nForgotten password\n☰\n×\nWeb\nNews\nLINE-UP\nFestival Info\nFAQ\nProgram\nPress\nContact\nuserLogin\nMeet & Greet\nBrutal Assault x Savage Lands\nE-shop\nTickets\nAccommodation\nBrutal Merch\nBrutal Clothing\nAlcohol\nTerms & conditions\nAccommodation\n→\nAccommodation\nCamps and hotels for BA 2027 coming soon. Stay tuned!\nShow available only\nAll accommodation\nHotels Camps Car by tent\nSustainable BRUTAL CAMP 2027 camp AAMON - ready-to-camp tent + mattress for 1 person [e-ticket]\n€ 33.33\nSustainable BRUTAL CAMP 2027 camp AAMON - ready-to-camp tent + mattress for 2 persons [e-ticket]\n€ 47.49\nSustainable BRUTAL CAMP 2027 camp DAGON - ready-to-camp tent + mattress for 1 person [e-ticket]\n€ 33.33\nSustainable BRUTAL CAMP 2027 camp DAGON - ready-to-camp tent + mattress for 2 persons [e-ticket]\n€ 47.49\nsold out\nBA 2027 Hotel ČERNIGOV *** single room (1 bed) [e-ticket]\n€ 85.00\nsold out\nBA 2027 Hotel ČERNIGOV *** double or twin room (2 beds) [e-ticket]\n€ 133.00\nsold out\nBA 2027 Hotel ČERNIGOV *** double suite (2 beds) [e-ticket]\n€ 133.00\nsold out\nBA 2027 Hotel ČERNIGOV *** double room with extra bed (3 beds) [e-ticket]\n€ 203.00\nsold out\nBA 2027 Hotel ČERNIGOV *** double suite with extra bed (3 beds) [e-ticket]\n€ 203.00\nsold out\nBA 2026 Hotel ČERNIGOV *** triple room (3 beds) [e-ticket]\n€ 203.00\nBA 2027 camp AAMON - spot for your small tent and 1 person [e-ticket]\n€ 8.49\nBA 2027 camp AAMON - spot for your small tent and 2 persons [e-ticket]\n€ 15.49\nBA 2027 camp AAMON - spot for your large tent and 3 persons [e-ticket]\n€ 23.99\nBA 2027 camp AAMON - spot for your large tent and 4 persons [e-ticket]\n€ 31.49\nBA 2027 camp AAMON - spot for your large tent and 5 persons [e-ticket]\n€ 38.99\nBA 2027 camp AAMON - spot for your large tent and 6 persons [e-ticket]\n€ 45.99\nBA 2027 camp BEHERIT - spot for your small tent and 1 person [e-ticket]\n€ 8.49\nBA 2027 camp BEHERIT - spot for your small tent and 2 persons [e-ticket]\n€ 15.49\nBA 2027 camp BEHERIT - spot for your large tent and 3 persons [e-ticket]\n€ 23.99\nBA 2027 camp BEHERIT - spot for your large tent and 4 persons [e-ticket]\n€ 31.49\nBA 2027 camp BEHERIT - spot for your large tent and 5 persons [e-ticket]\n€ 38.99\nBA 2027 camp BEHERIT - spot for your large tent and 6 persons [e-ticket]\n€ 45.99\nBA 2027 silent camp CERBERUS - spot for your small tent and 1 person [e-ticket]\n€ 8.49\nBA 2027 silent camp CERBERUS - spot for your small tent and 2 persons [e-ticket]\n€ 15.49\nBA 2026 silent camp CERBERUS - spot for your large tent and 3 persons [e-ticket]\n€ 23.99\nBA 2027 silent camp CERBERUS - spot for your large tent and 4 persons [e-ticket]\n€ 31.49\nBA 2027 silent camp CERBERUS - spot for your large tent and 5 persons [e-ticket]\n€ 38.99\nBA 2027 silent camp CERBERUS - spot for your large tent and 6 persons [e-ticket]\n€ 45.99\nNews\nPress\nContact",
       "candidateLinks": [
         "https://brutalassault.cz/en/cart",
         "https://brutalassault.cz/en/cart/user-registration",
@@ -139,7 +144,8 @@
         "https://brutalassault.cz/en/tickets/detail/id/1145",
         "https://brutalassault.cz/en/tickets/detail/id/1147",
         "https://brutalassault.cz/en/tickets/detail/id/1148",
-        "https://brutalassault.cz/en/tickets/detail/id/1149"
+        "https://brutalassault.cz/en/tickets/detail/id/1149",
+        "https://brutalassault.cz/en/tickets/detail/id/1150"
       ],
       "flags": {
         "emptyState": true,
@@ -151,8 +157,8 @@
       "key": "hotels",
       "name": "Hotels",
       "url": "https://brutalassault.cz/en/ac-71/hotels",
-      "fetchedAt": "2026-09-09T10:59:26.652Z",
-      "hash": "87f0b4e594f8181d6b8c260e90cd595a1c7db6f5801412d19a5d84c39aecb6ae",
+      "fetchedAt": "2026-09-09T11:26:51.409Z",
+      "hash": "5f6cbb396b7720b710104917084381545722e892e9dcc0976062cd370559a5df",
       "relevantLines": [
         "Accommodation",
         "Brutal Merch",
@@ -170,6 +176,7 @@
         "New in shop",
         "BA 2027 Hotel ČERNIGOV *** single room (1 bed) [e-ticket]",
         "€ 85.00",
+        "sold out",
         "New in shop",
         "BA 2027 Hotel ČERNIGOV *** double or twin room (2 beds) [e-ticket]",
         "€ 133.00",
@@ -181,18 +188,28 @@
         "New in shop",
         "BA 2027 Hotel ČERNIGOV *** double room with extra bed (3 beds) [e-ticket]",
         "€ 203.00",
+        "sold out",
+        "New in shop",
+        "BA 2027 Hotel ČERNIGOV *** double suite with extra bed (3 beds) [e-ticket]",
+        "€ 203.00",
+        "sold out",
+        "New in shop",
+        "BA 2026 Hotel ČERNIGOV *** triple room (3 beds) [e-ticket]",
+        "€ 203.00",
         "News",
         "Press",
         "Contact"
       ],
-      "relevantText": "Accommodation\nBrutal Merch\nBrutal Clothing\nAlcohol\nTerms & conditions\n→\nHotels\nCamps and hotels for BA 2027 coming soon. Stay tuned!\nHotels\nAll accommodation\nHotels Camps Car by tent\nShow available only\nsold out\nNew in shop\nBA 2027 Hotel ČERNIGOV *** single room (1 bed) [e-ticket]\n€ 85.00\nNew in shop\nBA 2027 Hotel ČERNIGOV *** double or twin room (2 beds) [e-ticket]\n€ 133.00\nsold out\nNew in shop\nBA 2027 Hotel ČERNIGOV *** double suite (2 beds) [e-ticket]\n€ 133.00\nsold out\nNew in shop\nBA 2027 Hotel ČERNIGOV *** double room with extra bed (3 beds) [e-ticket]\n€ 203.00\nNews\nPress\nContact",
+      "relevantText": "Accommodation\nBrutal Merch\nBrutal Clothing\nAlcohol\nTerms & conditions\n→\nHotels\nCamps and hotels for BA 2027 coming soon. Stay tuned!\nHotels\nAll accommodation\nHotels Camps Car by tent\nShow available only\nsold out\nNew in shop\nBA 2027 Hotel ČERNIGOV *** single room (1 bed) [e-ticket]\n€ 85.00\nsold out\nNew in shop\nBA 2027 Hotel ČERNIGOV *** double or twin room (2 beds) [e-ticket]\n€ 133.00\nsold out\nNew in shop\nBA 2027 Hotel ČERNIGOV *** double suite (2 beds) [e-ticket]\n€ 133.00\nsold out\nNew in shop\nBA 2027 Hotel ČERNIGOV *** double room with extra bed (3 beds) [e-ticket]\n€ 203.00\nsold out\nNew in shop\nBA 2027 Hotel ČERNIGOV *** double suite with extra bed (3 beds) [e-ticket]\n€ 203.00\nsold out\nNew in shop\nBA 2026 Hotel ČERNIGOV *** triple room (3 beds) [e-ticket]\n€ 203.00\nNews\nPress\nContact",
       "candidateLinks": [
         "https://brutalassault.cz/en/cart",
         "https://brutalassault.cz/en/cart/user-registration",
         "https://brutalassault.cz/en/tickets/detail/id/1144",
         "https://brutalassault.cz/en/tickets/detail/id/1145",
         "https://brutalassault.cz/en/tickets/detail/id/1147",
-        "https://brutalassault.cz/en/tickets/detail/id/1148"
+        "https://brutalassault.cz/en/tickets/detail/id/1148",
+        "https://brutalassault.cz/en/tickets/detail/id/1149",
+        "https://brutalassault.cz/en/tickets/detail/id/1150"
       ],
       "flags": {
         "emptyState": true,
@@ -204,7 +221,7 @@
       "key": "camps",
       "name": "Camps",
       "url": "https://brutalassault.cz/en/ac-72/camps",
-      "fetchedAt": "2026-09-09T10:59:26.657Z",
+      "fetchedAt": "2026-09-09T11:26:51.624Z",
       "hash": "1da3a6e0c011437f80b158ef466e45253edc2e2a93c6ecfeff03b1cfa94b3176",
       "relevantLines": [
         "Accommodation",
@@ -326,7 +343,7 @@
       "key": "car-by-tent",
       "name": "Car by tent",
       "url": "https://brutalassault.cz/en/ac-76/car-by-tent",
-      "fetchedAt": "2026-09-09T10:59:26.656Z",
+      "fetchedAt": "2026-09-09T11:26:51.608Z",
       "hash": "80c485347b813fd2cc7139bf0be446ee20209e10ba6825bde188ac53eda1027b",
       "relevantLines": [
         "Accommodation",
