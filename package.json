@@ -1,0 +1,19 @@
+{
+  "name": "ba-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Brutal Assault accommodation watcher with Telegram alerts and GitHub Actions scheduling.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "bootstrap": "node src/index.js --bootstrap",
+    "check": "node src/index.js",
+    "dry-run": "node src/index.js --dry-run",
+    "test-telegram": "node src/index.js --test-telegram"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  }
+}
